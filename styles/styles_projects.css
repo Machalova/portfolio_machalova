@@ -1,0 +1,21 @@
+.container{
+    margin: 100px 0 0 200px;
+    width: 80%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+   
+}
+.container img{
+width: 10%;
+height: 100%;
+object-fit: cover;
+border-radius: 10px;
+border: 2px solid rgba(255, 255, 255, 0.6);
+transition: all ease-in-out;
+}
+
+.container img:hover{
+    width: 90%;
+}

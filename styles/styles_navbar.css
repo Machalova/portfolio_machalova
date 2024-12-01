@@ -1,11 +1,10 @@
 
 
 .navbar{
-    background-color: rgb(44, 81, 194);
+    background-color:rgb(231, 216, 216);
     overflow: hidden;
     top: 0%;
 }
-
 
   .navbar a {
     float: left;
@@ -17,12 +16,12 @@
   }
   
   .navbar a:hover  {
-    background-color: #fcfcfc;
+    background-color: rgb(254, 254, 254);
     color: rgb(3, 4, 7);
   }
   
 
   .navbar a.active  {
-    background-color: #f7f5f5;
+    background-color: rgb(254, 254, 254);
     color: rgb(0, 0, 0);
   }
